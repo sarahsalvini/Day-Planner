@@ -45,4 +45,7 @@ Near the top of the calendar, the application should display the current day. Ad
 
 <h2><b>Licenses</h2></b>
 time: https://momentjs.com/
+<br>
+<br>
+view site: https://sarahsalvini.github.io/Day-Planner/
 
